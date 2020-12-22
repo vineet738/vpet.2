@@ -1,1 +1,1 @@
-# vpet.2
+# VirtualPet2
